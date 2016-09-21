@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Blisterpod"/>
+        <card number="4" price="0" name="Catacomb Sifter"/>
+        <card number="4" price="0" name="Duskwatch Recruiter"/>
+        <card number="4" price="0" name="Elvish Visionary"/>
+        <card number="2" price="0" name="Liliana, Heretical Healer"/>
+        <card number="4" price="0" name="Loam Dryad"/>
+        <card number="4" price="0" name="Nantuko Husk"/>
+        <card number="4" price="0" name="Zulaport Cutthroat"/>
+        <card number="4" price="0" name="Collected Company"/>
+        <card number="3" price="0" name="Cryptolith Rite"/>
+        <card number="8" price="0" name="Forest"/>
+        <card number="4" price="0" name="Hissing Quagmire"/>
+        <card number="4" price="0" name="Llanowar Wastes"/>
+        <card number="4" price="0" name="Swamp"/>
+        <card number="3" price="0" name="Westvale Abbey"/>
+    </zone>
+</cockatrice_deck>

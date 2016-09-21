@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>OneShot-Elementals</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Incandescent Soulstoke"/>
+        <card number="4" price="0" name="Flamekin Harbinger"/>
+        <card number="4" price="0" name="Doomgape"/>
+        <card number="4" price="0" name="Malignus"/>
+        <card number="4" price="0" name="Assault Strobe"/>
+        <card number="4" price="0" name="Pyretic Ritual"/>
+        <card number="14" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Ground Rift"/>
+        <card number="4" price="0" name="Liege of the Tangle"/>
+        <card number="4" price="0" name="Lightning Bolt"/>
+        <card number="2" price="0" name="Nova Chaser"/>
+        <card number="4" price="0" name="Rootbound Crag"/>
+        <card number="4" price="0" name="Temple of Abandon"/>
+    </zone>
+</cockatrice_deck>

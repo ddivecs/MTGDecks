@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>pili-pala</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Anticipate"/>
+        <card number="4" price="0" name="Azure Mage"/>
+        <card number="1" price="0" name="Blue Sun's Zenith"/>
+        <card number="4" price="0" name="Drift of Phantasms"/>
+        <card number="4" price="0" name="Grand Architect"/>
+        <card number="4" price="0" name="Halimar Depths"/>
+        <card number="2" price="0" name="Into the Roil"/>
+        <card number="18" price="0" name="Island"/>
+        <card number="4" price="0" name="Muddle the Mixture"/>
+        <card number="4" price="0" name="Pili-Pala"/>
+        <card number="1" price="0" name="Pyromatics"/>
+        <card number="2" price="0" name="Remand"/>
+        <card number="4" price="0" name="Serum Visions"/>
+        <card number="4" price="0" name="Sleight of Hand"/>
+        <card number="2" price="0" name="Swan Song"/>
+    </zone>
+    <zone name="side">
+        <card number="4" price="0" name="Apostle's Blessing"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="3" price="0" name="Gigadrowse"/>
+        <card number="2" price="0" name="Swan Song"/>
+        <card number="4" price="0" name="Vapor Snag"/>
+    </zone>
+</cockatrice_deck>

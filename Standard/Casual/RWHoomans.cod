@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Hanweir Militia Captain"/>
+        <card number="4" price="0" name="Thalia's Lieutenant"/>
+        <card number="4" price="0" name="Thraben Inspector"/>
+        <card number="8" price="0" name="Plains"/>
+        <card number="4" price="0" name="Always Watching"/>
+        <card number="4" price="0" name="Declaration in Stone"/>
+        <card number="2" price="0" name="Kytheon, Hero of Akros"/>
+        <card number="4" price="0" name="Iroas's Champion"/>
+        <card number="2" price="0" name="Ride Down"/>
+        <card number="2" price="0" name="Needle Spires"/>
+        <card number="4" price="0" name="Battlefield Forge"/>
+        <card number="6" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Hanweir Battlements"/>
+        <card number="4" price="0" name="Hanweir Garrison"/>
+        <card number="4" price="0" name="Titan's Strength"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Needle Spires"/>
+    </zone>
+</cockatrice_deck>

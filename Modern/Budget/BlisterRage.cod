@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>BlisterRage</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Apostle's Blessing"/>
+        <card number="4" price="0" name="Assault Strobe"/>
+        <card number="4" price="0" name="Brute Force"/>
+        <card number="4" price="0" name="Desperate Ritual"/>
+        <card number="4" price="0" name="Kiln Fiend"/>
+        <card number="4" price="0" name="Monastery Swiftspear"/>
+        <card number="16" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Mutagenic Growth"/>
+        <card number="4" price="0" name="Temur Battle Rage"/>
+        <card number="4" price="0" name="Gitaxian Probe"/>
+        <card number="4" price="0" name="Blistercoil Weird"/>
+        <card number="4" price="0" name="Rush of Adrenaline"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Akroan Crusader"/>
+        <card number="4" price="0" name="Gut Shot"/>
+        <card number="4" price="0" name="Lightning Bolt"/>
+        <card number="2" price="0" name="Smash to Smithereens"/>
+        <card number="4" price="0" name="Young Pyromancer"/>
+    </zone>
+</cockatrice_deck>

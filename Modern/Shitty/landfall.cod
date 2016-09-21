@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Khalni Heart Expedition"/>
+        <card number="4" price="0" name="Undergrowth Champion"/>
+        <card number="2" price="0" name="Retreat to Hagra"/>
+        <card number="4" price="0" name="Overgrown Tomb"/>
+        <card number="11" price="0" name="Forest"/>
+        <card number="3" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Verdant Catacombs"/>
+        <card number="2" price="0" name="Misty Rainforest"/>
+        <card number="2" price="0" name="Marsh Flats"/>
+        <card number="4" price="0" name="Birds of Paradise"/>
+        <card number="4" price="0" name="Explore"/>
+        <card number="4" price="0" name="Oracle of Mul Daya"/>
+        <card number="2" price="0" name="Tragic Slip"/>
+        <card number="2" price="0" name="Avenger of Zendikar"/>
+        <card number="2" price="0" name="Ob Nixilis, the Fallen"/>
+        <card number="2" price="0" name="Tooth and Nail"/>
+        <card number="2" price="0" name="Lotus Cobra"/>
+        <card number="2" price="0" name="Primeval Titan"/>
+    </zone>
+</cockatrice_deck>

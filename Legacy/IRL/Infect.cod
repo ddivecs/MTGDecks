@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname>irl_infect</deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Glistener Elf"/>
+        <card number="4" price="0" name="Blighted Agent"/>
+        <card number="2" price="0" name="Blight Mamba"/>
+        <card number="2" price="0" name="Ichorclaw Myr"/>
+        <card number="2" price="0" name="Canopy Cover"/>
+        <card number="2" price="0" name="Rancor"/>
+        <card number="4" price="0" name="Mutagenic Growth"/>
+        <card number="4" price="0" name="Apostle's Blessing"/>
+        <card number="4" price="0" name="Groundswell"/>
+        <card number="4" price="0" name="Predator's Strike"/>
+        <card number="4" price="0" name="Invigorate"/>
+        <card number="4" price="0" name="Slip Through Space"/>
+        <card number="4" price="0" name="Temple of Mystery"/>
+        <card number="4" price="0" name="Yavimaya Coast"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="6" price="0" name="Forest"/>
+    </zone>
+</cockatrice_deck>

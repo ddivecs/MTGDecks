@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="side">
+        <card number="2" price="0" name="Angelic Gift"/>
+        <card number="1" price="0" name="Belligerent Whiptail"/>
+        <card number="2" price="0" name="Brilliant Spectrum"/>
+        <card number="1" price="0" name="Cliffside Lookout"/>
+        <card number="1" price="0" name="Coralhelm Guide"/>
+        <card number="1" price="0" name="Crumble to Dust"/>
+        <card number="1" price="0" name="Demon's Grasp"/>
+        <card number="2" price="0" name="Dragon"/>
+        <card number="1" price="0" name="Eldrazi Scion"/>
+        <card number="1" price="0" name="Elemental"/>
+        <card number="1" price="0" name="Expedition Envoy"/>
+        <card number="3" price="0" name="Fortified Rampart"/>
+        <card number="1" price="0" name="Ghostly Sentinel"/>
+        <card number="1" price="0" name="Goblin War Paint"/>
+        <card number="1" price="0" name="Guardian of Tazeem"/>
+        <card number="1" price="0" name="Hagra Sharpshooter"/>
+        <card number="2" price="0" name="Hedron Blade"/>
+        <card number="1" price="0" name="Kalastria Nightwatch"/>
+        <card number="1" price="0" name="Kitesail Scout"/>
+        <card number="1" price="0" name="Knight Ally"/>
+        <card number="1" price="0" name="Kor Castigator"/>
+        <card number="1" price="0" name="Looming Spires"/>
+        <card number="1" price="0" name="Makindi Patrol"/>
+        <card number="1" price="0" name="Makindi Sliderunner"/>
+        <card number="1" price="0" name="March from the Tomb"/>
+        <card number="2" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Natural Connection"/>
+        <card number="3" price="0" name="Ondu Champion"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Plant"/>
+        <card number="1" price="0" name="Reckless Cohort"/>
+        <card number="1" price="0" name="Retreat to Emeria"/>
+        <card number="1" price="0" name="Roilmage's Trick"/>
+        <card number="2" price="0" name="Roil's Retribution"/>
+        <card number="1" price="0" name="Rot Shambler"/>
+        <card number="1" price="0" name="Serpentine Spike"/>
+        <card number="1" price="0" name="Shadow Glider"/>
+        <card number="1" price="0" name="Shatterskull Recruit"/>
+        <card number="1" price="0" name="Sheer Drop"/>
+        <card number="1" price="0" name="Skyline Cascade"/>
+        <card number="1" price="0" name="Skyrider Elf"/>
+        <card number="1" price="0" name="Stonefury"/>
+        <card number="1" price="0" name="Sure Strike"/>
+        <card number="3" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Tandem Tactics"/>
+        <card number="1" price="0" name="Tightening Coils"/>
+        <card number="1" price="0" name="Tunneling Geopede"/>
+        <card number="2" price="0" name="Unnatural Aggression"/>
+        <card number="1" price="0" name="Wave-Wing Elemental"/>
+        <card number="1" price="0" name="Windrider Patrol"/>
+        <card number="2" price="0" name="Blighted Gorge"/>
+        <card number="1" price="0" name="Spawning Bed"/>
+        <card number="2" price="0" name="Eyeless Watcher"/>
+        <card number="1" price="0" name="Blisterpod"/>
+        <card number="2" price="0" name="Scour from Existence"/>
+        <card number="1" price="0" name="Dutiful Return"/>
+    </zone>
+    <zone name="main">
+        <card number="1" price="0" name="Culling Drone"/>
+        <card number="1" price="0" name="Dominator Drone"/>
+        <card number="1" price="0" name="Forerunner of Slaughter"/>
+        <card number="1" price="0" name="Kozilek's Sentinel"/>
+        <card number="1" price="0" name="Mind Raker"/>
+        <card number="1" price="0" name="Nettle Drone"/>
+        <card number="1" price="0" name="Ruin Processor"/>
+        <card number="1" price="0" name="Sludge Crawler"/>
+        <card number="1" price="0" name="Smothering Abomination"/>
+        <card number="1" price="0" name="Vestige of Emrakul"/>
+        <card number="1" price="0" name="Complete Disregard"/>
+        <card number="1" price="0" name="Grave Birthing"/>
+        <card number="1" price="0" name="Grip of Desolation"/>
+        <card number="1" price="0" name="Mortuary Mire"/>
+        <card number="1" price="0" name="Ob Nixilis Reignited"/>
+        <card number="1" price="0" name="Mire's Malice"/>
+        <card number="1" price="0" name="Void Winnower"/>
+        <card number="5" price="0" name="Swamp"/>
+        <card number="6" price="0" name="Mountain"/>
+        <card number="1" price="0" name="Herald of Kozilek"/>
+        <card number="6" price="0" name="Island"/>
+        <card number="1" price="0" name="Tide Drifter"/>
+        <card number="1" price="0" name="Ulamog's Reclaimer"/>
+        <card number="1" price="0" name="Clutch of Currents"/>
+        <card number="1" price="0" name="Rush of Ice"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Brutal Expulsion"/>
+    </zone>
+</cockatrice_deck>
