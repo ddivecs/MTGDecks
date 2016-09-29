@@ -18,7 +18,7 @@
         <card number="2" price="0" name="Mountain"/>
         <card number="6" price="0" name="Plains"/>
         <card number="4" price="0" name="Chief of the Foundry"/>
-        <card number="4" price="0" name="Clifftop Retreat"/>
+        <card number="4" price="0" name="Battlefield Forge"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Dismember"/>
