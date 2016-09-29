@@ -7,23 +7,27 @@
         <card number="4" price="0" name="Jace's Phantasm"/>
         <card number="4" price="0" name="Dream Twist"/>
         <card number="4" price="0" name="Thought Scour"/>
-        <card number="4" price="0" name="Visions of Beyond"/>
+        <card number="2" price="0" name="Visions of Beyond"/>
         <card number="4" price="0" name="Doom Blade"/>
         <card number="2" price="0" name="Crypt Incursion"/>
         <card number="4" price="0" name="Mind Funeral"/>
         <card number="4" price="0" name="Archive Trap"/>
         <card number="4" price="0" name="Breaking // Entering"/>
-        <card number="4" price="0" name="Evolving Wilds"/>
+        <card number="2" price="0" name="Evolving Wilds"/>
         <card number="7" price="0" name="Island"/>
         <card number="5" price="0" name="Swamp"/>
-        <card number="2" price="0" name="Thing in the Ice"/>
         <card number="4" price="0" name="Sunken Hollow"/>
+        <card number="4" price="0" name="Startled Awake"/>
+        <card number="2" price="0" name="Ghost Quarter"/>
     </zone>
     <zone name="side">
-        <card number="4" price="0" name="Surgical Extraction"/>
+        <card number="2" price="0" name="Surgical Extraction"/>
         <card number="2" price="0" name="Dismember"/>
         <card number="1" price="0" name="Trapmaker's Snare"/>
-        <card number="2" price="0" name="Leyline of the Void"/>
         <card number="2" price="0" name="Languish"/>
+        <card number="2" price="0" name="Duress"/>
+        <card number="2" price="0" name="Tormod's Crypt"/>
+        <card number="2" price="0" name="Crypt Incursion"/>
+        <card number="2" price="0" name="Ratchet Bomb"/>
     </zone>
 </cockatrice_deck>
