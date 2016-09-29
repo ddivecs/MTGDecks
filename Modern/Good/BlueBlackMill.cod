@@ -18,16 +18,16 @@
         <card number="3" price="0" name="Mesmeric Orb"/>
         <card number="4" price="0" name="Snapcaster Mage"/>
         <card number="4" price="0" name="Island"/>
-        <card number="2" price="0" name="Oboro, Palace in the Clouds"/>
+        <card number="1" price="0" name="Oboro, Palace in the Clouds"/>
         <card number="2" price="0" name="Flooded Strand"/>
         <card number="1" price="0" name="Marsh Flats"/>
         <card number="1" price="0" name="Swamp"/>
+        <card number="1" price="0" name="Minamo, School at Water's Edge"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Manic Scribe"/>
-        <card number="1" price="0" name="Mesmeric Orb"/>
-        <card number="4" price="0" name="Extirpate"/>
         <card number="4" price="0" name="Leyline of the Void"/>
-        <card number="4" price="0" name="Profane Memento"/>
+        <card number="4" price="0" name="Crypt Incursion"/>
+        <card number="2" price="0" name="Duress"/>
+        <card number="2" price="0" name="Ratchet Bomb"/>
     </zone>
 </cockatrice_deck>
