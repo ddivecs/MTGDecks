@@ -1,19 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname>Elves</deckname>
+    <deckname></deckname>
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="Arbor Elf"/>
-        <card number="4" price="0" name="Elvish Mystic"/>
-        <card number="4" price="0" name="Llanowar Elves"/>
         <card number="4" price="0" name="Dwynen's Elite"/>
-        <card number="4" price="0" name="Elvish Visionary"/>
         <card number="4" price="0" name="Elvish Archdruid"/>
-        <card number="2" price="0" name="Ezuri, Renegade Leader"/>
-        <card number="4" price="0" name="Imperious Perfect"/>
-        <card number="18" price="0" name="Forest"/>
-        <card number="4" price="0" name="Collected Company"/>
         <card number="4" price="0" name="Elvish Champion"/>
-        <card number="4" price="0" name="Chord of Calling"/>
+        <card number="4" price="0" name="Elvish Mystic"/>
+        <card number="4" price="0" name="Elvish Visionary"/>
+        <card number="2" price="0" name="Ezuri, Renegade Leader"/>
+        <card number="18" price="0" name="Forest"/>
+        <card number="3" price="0" name="Imperious Perfect"/>
+        <card number="1" price="0" name="Joraga Warcaller"/>
+        <card number="4" price="0" name="Llanowar Elves"/>
+        <card number="4" price="0" name="Collected Company"/>
+        <card number="4" price="0" name="Lead the Stampede"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Chameleon Colossus"/>
+        <card number="3" price="0" name="Reclamation Sage"/>
+        <card number="2" price="0" name="Skylasher"/>
+        <card number="4" price="0" name="Wrap in Vigor"/>
+        <card number="2" price="0" name="Relic of Progenitus"/>
+        <card number="2" price="0" name="Dismember"/>
     </zone>
 </cockatrice_deck>
