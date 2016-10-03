@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Steel Overseer"/>
+        <card number="4" price="0" name="Inkmoth Nexus"/>
+        <card number="3" price="0" name="Memnite"/>
+        <card number="4" price="0" name="Ornithopter"/>
+        <card number="4" price="0" name="Signal Pest"/>
+        <card number="4" price="0" name="Vault Skirge"/>
+        <card number="3" price="0" name="Etched Champion"/>
+        <card number="4" price="0" name="Galvanic Blast"/>
+        <card number="4" price="0" name="Springleaf Drum"/>
+        <card number="4" price="0" name="Cranial Plating"/>
+        <card number="4" price="0" name="Blinkmoth Nexus"/>
+        <card number="4" price="0" name="Darksteel Citadel"/>
+        <card number="1" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Arcbound Ravager"/>
+        <card number="4" price="0" name="Mox Opal"/>
+        <card number="3" price="0" name="Glimmervoid"/>
+        <card number="1" price="0" name="Spellskite"/>
+        <card number="2" price="0" name="Chief of the Foundry"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Chalice of the Void"/>
+        <card number="1" price="0" name="Grafdigger's Cage"/>
+        <card number="1" price="0" name="Pithing Needle"/>
+        <card number="1" price="0" name="Thoughtseize"/>
+        <card number="2" price="0" name="Ancient Grudge"/>
+        <card number="1" price="0" name="Ethersworn Canonist"/>
+        <card number="1" price="0" name="Ray of Revelation"/>
+        <card number="1" price="0" name="Spellskite"/>
+        <card number="1" price="0" name="Whipflare"/>
+        <card number="1" price="0" name="Blood Moon"/>
+        <card number="1" price="0" name="Dismember"/>
+        <card number="1" price="0" name="Ghirapur AEther Grid"/>
+        <card number="1" price="0" name="Worship"/>
+    </zone>
+</cockatrice_deck>
