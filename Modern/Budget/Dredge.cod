@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="2" price="0" name="Conflagrate"/>
+        <card number="2" price="0" name="Darkblast"/>
+        <card number="4" price="0" name="Faithless Looting"/>
+        <card number="1" price="0" name="Haunted Dead"/>
+        <card number="4" price="0" name="Insolent Neonate"/>
+        <card number="1" price="0" name="Lightning Axe"/>
+        <card number="4" price="0" name="Narcomoeba"/>
+        <card number="4" price="0" name="Prized Amalgam"/>
+        <card number="1" price="0" name="Rally the Peasants"/>
+        <card number="2" price="0" name="Shriekhorn"/>
+        <card number="4" price="0" name="Stinkweed Imp"/>
+        <card number="4" price="0" name="Golgari Thug"/>
+        <card number="4" price="0" name="Cathartic Reunion"/>
+        <card number="3" price="0" name="Shambling Remains"/>
+        <card number="2" price="0" name="Dakmor Salvage"/>
+        <card number="4" price="0" name="Dragonskull Summit"/>
+        <card number="4" price="0" name="Smoldering Marsh"/>
+        <card number="6" price="0" name="Mountain"/>
+        <card number="4" price="0" name="Swamp"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Bojuka Bog"/>
+        <card number="3" price="0" name="Collective Brutality"/>
+        <card number="2" price="0" name="Darkblast"/>
+        <card number="2" price="0" name="Lightning Axe"/>
+        <card number="3" price="0" name="Rakdos Charm"/>
+        <card number="2" price="0" name="Duress"/>
+        <card number="2" price="0" name="Stone Rain"/>
+    </zone>
+</cockatrice_deck>
