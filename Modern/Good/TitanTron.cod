@@ -8,22 +8,24 @@
         <card number="4" price="0" name="Urza's Tower"/>
         <card number="4" price="0" name="Expedition Map"/>
         <card number="4" price="0" name="Eldrazi Temple"/>
-        <card number="2" price="0" name="Endless One"/>
         <card number="4" price="0" name="Conduit of Ruin"/>
         <card number="4" price="0" name="All Is Dust"/>
         <card number="2" price="0" name="Spellskite"/>
         <card number="2" price="0" name="Eldrazi Conscription"/>
         <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
         <card number="1" price="0" name="Ulamog, the Infinite Gyre"/>
-        <card number="2" price="0" name="Artisan of Kozilek"/>
+        <card number="1" price="0" name="Artisan of Kozilek"/>
         <card number="2" price="0" name="Not of This World"/>
         <card number="4" price="0" name="Thought-Knot Seer"/>
-        <card number="2" price="0" name="Ghost Quarter"/>
-        <card number="2" price="0" name="World Breaker"/>
         <card number="4" price="0" name="Brushland"/>
         <card number="4" price="0" name="Ancient Stirrings"/>
         <card number="2" price="0" name="Chromatic Star"/>
-        <card number="2" price="0" name="Wastes"/>
+        <card number="2" price="0" name="Sanctum of Ugin"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Wastes"/>
+        <card number="2" price="0" name="Sundering Titan"/>
+        <card number="1" price="0" name="Kozilek, Butcher of Truth"/>
+        <card number="2" price="0" name="Eldrazi Mimic"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Warping Wail"/>
