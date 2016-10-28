@@ -16,12 +16,12 @@
         <card number="4" price="0" name="Stinkweed Imp"/>
         <card number="4" price="0" name="Golgari Thug"/>
         <card number="4" price="0" name="Cathartic Reunion"/>
-        <card number="3" price="0" name="Shambling Remains"/>
         <card number="2" price="0" name="Dakmor Salvage"/>
         <card number="4" price="0" name="Dragonskull Summit"/>
         <card number="4" price="0" name="Smoldering Marsh"/>
         <card number="6" price="0" name="Mountain"/>
         <card number="4" price="0" name="Swamp"/>
+        <card number="3" price="0" name="Scrapheap Scrounger"/>
     </zone>
     <zone name="side">
         <card number="1" price="0" name="Bojuka Bog"/>
