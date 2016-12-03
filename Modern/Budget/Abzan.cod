@@ -4,26 +4,27 @@
     <comments></comments>
     <zone name="main">
         <card number="2" price="0" name="Anafenza, the Foremost"/>
-        <card number="4" price="0" name="Caves of Koilos"/>
-        <card number="2" price="0" name="Collective Brutality"/>
         <card number="4" price="0" name="Dismember"/>
         <card number="3" price="0" name="Doom Blade"/>
         <card number="3" price="0" name="Duress"/>
-        <card number="3" price="0" name="Evolving Wilds"/>
         <card number="1" price="0" name="Forest"/>
         <card number="2" price="0" name="Go for the Throat"/>
         <card number="4" price="0" name="Grisly Salvage"/>
         <card number="3" price="0" name="Harsh Scrutiny"/>
         <card number="4" price="0" name="Lingering Souls"/>
-        <card number="4" price="0" name="Llanowar Wastes"/>
         <card number="1" price="0" name="Murderous Cut"/>
         <card number="1" price="0" name="Plains"/>
         <card number="2" price="0" name="Qasali Pridemage"/>
         <card number="4" price="0" name="Sandsteppe Citadel"/>
         <card number="4" price="0" name="Siege Rhino"/>
         <card number="4" price="0" name="Stirring Wildwood"/>
-        <card number="3" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Swamp"/>
         <card number="2" price="0" name="Tasigur, the Golden Fang"/>
+        <card number="2" price="0" name="Concealed Courtyard"/>
+        <card number="2" price="0" name="Blooming Marsh"/>
+        <card number="4" price="0" name="Caves of Koilos"/>
+        <card number="4" price="0" name="Llanowar Wastes"/>
+        <card number="2" price="0" name="Warden of the First Tree"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Day of Judgment"/>
