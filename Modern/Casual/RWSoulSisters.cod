@@ -5,20 +5,22 @@
     <zone name="main">
         <card number="3" price="0" name="Ajani's Pridemate"/>
         <card number="2" price="0" name="Champion of the Parish"/>
-        <card number="4" price="0" name="Genesis Chamber"/>
+        <card number="3" price="0" name="Genesis Chamber"/>
         <card number="3" price="0" name="Lightning Berserker"/>
         <card number="2" price="0" name="Lightning Bolt"/>
         <card number="2" price="0" name="Mentor of the Meek"/>
         <card number="4" price="0" name="Norin the Wary"/>
-        <card number="4" price="0" name="Path to Exile"/>
-        <card number="4" price="0" name="Soul Warden"/>
-        <card number="4" price="0" name="Soul's Attendant"/>
+        <card number="3" price="0" name="Path to Exile"/>
+        <card number="3" price="0" name="Soul Warden"/>
+        <card number="3" price="0" name="Soul's Attendant"/>
         <card number="4" price="0" name="Needle Spires"/>
         <card number="4" price="0" name="Wind-Scarred Crag"/>
         <card number="6" price="0" name="Plains"/>
         <card number="6" price="0" name="Mountain"/>
-        <card number="4" price="0" name="Ranger of Eos"/>
-        <card number="4" price="0" name="Serra Ascendant"/>
+        <card number="3" price="0" name="Ranger of Eos"/>
+        <card number="3" price="0" name="Serra Ascendant"/>
+        <card number="3" price="0" name="Aetherflux Reservoir"/>
+        <card number="3" price="0" name="Martyr of Sands"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Wear // Tear"/>
