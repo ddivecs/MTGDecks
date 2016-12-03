@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Glistener Elf"/>
+        <card number="4" price="0" name="Blighted Agent"/>
+        <card number="1" price="0" name="Rancor"/>
+        <card number="4" price="0" name="Mutagenic Growth"/>
+        <card number="2" price="0" name="Forest"/>
+        <card number="1" price="0" name="Island"/>
+        <card number="3" price="0" name="Yavimaya Coast"/>
+        <card number="4" price="0" name="Blossoming Defense"/>
+        <card number="3" price="0" name="Vines of Vastwood"/>
+        <card number="4" price="0" name="Become Immense"/>
+        <card number="1" price="0" name="Distortion Strike"/>
+        <card number="4" price="0" name="Windswept Heath"/>
+        <card number="2" price="0" name="Breeding Pool"/>
+        <card number="2" price="0" name="Pendelhaven"/>
+        <card number="3" price="0" name="Flooded Strand"/>
+        <card number="4" price="0" name="Gitaxian Probe"/>
+        <card number="1" price="0" name="Dryad Arbor"/>
+        <card number="2" price="0" name="Dismember"/>
+        <card number="1" price="0" name="Twisted Image"/>
+        <card number="3" price="0" name="Giant Growth"/>
+        <card number="2" price="0" name="Wooded Foothills"/>
+        <card number="1" price="0" name="Apostle's Blessing"/>
+        <card number="4" price="0" name="Ichorclaw Myr"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Nature's Claim"/>
+        <card number="1" price="0" name="Twisted Image"/>
+        <card number="1" price="0" name="Dismember"/>
+        <card number="1" price="0" name="Viridian Corrupter"/>
+        <card number="2" price="0" name="Spell Pierce"/>
+        <card number="2" price="0" name="Dispel"/>
+        <card number="2" price="0" name="Spellskite"/>
+        <card number="3" price="0" name="Ravenous Trap"/>
+    </zone>
+</cockatrice_deck>
