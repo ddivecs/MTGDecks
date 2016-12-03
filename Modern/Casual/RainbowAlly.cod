@@ -3,12 +3,12 @@
     <deckname></deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Kazandu Blademaster"/>
+        <card number="3" price="0" name="Kazandu Blademaster"/>
         <card number="4" price="0" name="Hada Freeblade"/>
         <card number="4" price="0" name="Harabaz Druid"/>
         <card number="4" price="0" name="Kabira Evangel"/>
         <card number="4" price="0" name="Ally Encampment"/>
-        <card number="4" price="0" name="Captain's Claws"/>
+        <card number="3" price="0" name="Captain's Claws"/>
         <card number="2" price="0" name="Gideon, Ally of Zendikar"/>
         <card number="3" price="0" name="Kazuul Warlord"/>
         <card number="2" price="0" name="Plains"/>
@@ -22,10 +22,11 @@
         <card number="1" price="0" name="Sacred Foundry"/>
         <card number="2" price="0" name="Temple Garden"/>
         <card number="1" price="0" name="Godless Shrine"/>
-        <card number="2" price="0" name="Path to Exile"/>
-        <card number="4" price="0" name="Oran-Rief Survivalist"/>
+        <card number="3" price="0" name="Path to Exile"/>
+        <card number="3" price="0" name="Oran-Rief Survivalist"/>
         <card number="4" price="0" name="Cavern of Souls"/>
-        <card number="4" price="0" name="Akoum Battlesinger"/>
+        <card number="3" price="0" name="Akoum Battlesinger"/>
+        <card number="3" price="0" name="Lightning Bolt"/>
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Path to Exile"/>
