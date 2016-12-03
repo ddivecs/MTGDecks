@@ -18,12 +18,13 @@
     </zone>
     <zone name="side">
         <card number="2" price="0" name="Gut Shot"/>
-        <card number="2" price="0" name="Oxidize"/>
         <card number="2" price="0" name="Wrap in Vigor"/>
         <card number="1" price="0" name="Creeping Corrosion"/>
         <card number="2" price="0" name="Relic of Progenitus"/>
-        <card number="1" price="0" name="Pithing Needle"/>
-        <card number="2" price="0" name="Unravel the AEther"/>
-        <card number="3" price="0" name="Feed the Clan"/>
+        <card number="2" price="0" name="Pithing Needle"/>
+        <card number="2" price="0" name="Feed the Clan"/>
+        <card number="2" price="0" name="Natural State"/>
+        <card number="1" price="0" name="Unravel the Aether"/>
+        <card number="1" price="0" name="Beast Within"/>
     </zone>
 </cockatrice_deck>
