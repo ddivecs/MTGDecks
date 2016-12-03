@@ -3,30 +3,31 @@
     <deckname>Affinity</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="3" price="0" name="Memnite"/>
+        <card number="4" price="0" name="Memnite"/>
         <card number="4" price="0" name="Ornithopter"/>
         <card number="4" price="0" name="Signal Pest"/>
         <card number="4" price="0" name="Vault Skirge"/>
-        <card number="4" price="0" name="Etched Champion"/>
+        <card number="3" price="0" name="Etched Champion"/>
         <card number="3" price="0" name="Frogmite"/>
         <card number="4" price="0" name="Springleaf Drum"/>
         <card number="4" price="0" name="Cranial Plating"/>
-        <card number="4" price="0" name="Tempered Steel"/>
         <card number="4" price="0" name="Galvanic Blast"/>
         <card number="2" price="0" name="Blinkmoth Nexus"/>
         <card number="4" price="0" name="Darksteel Citadel"/>
         <card number="2" price="0" name="Mountain"/>
-        <card number="6" price="0" name="Plains"/>
-        <card number="4" price="0" name="Chief of the Foundry"/>
+        <card number="7" price="0" name="Plains"/>
+        <card number="2" price="0" name="Chief of the Foundry"/>
         <card number="4" price="0" name="Battlefield Forge"/>
+        <card number="2" price="0" name="Dispatch"/>
+        <card number="3" price="0" name="Smuggler's Copter"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Dismember"/>
         <card number="3" price="0" name="Whipflare"/>
         <card number="2" price="0" name="Warping Wail"/>
         <card number="2" price="0" name="Ancient Grudge"/>
         <card number="2" price="0" name="Torpor Orb"/>
         <card number="2" price="0" name="Tormod's Crypt"/>
         <card number="2" price="0" name="Rest in Peace"/>
+        <card number="2" price="0" name="Dispatch"/>
     </zone>
 </cockatrice_deck>
