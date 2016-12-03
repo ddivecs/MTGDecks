@@ -3,7 +3,7 @@
     <deckname>Bogle</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Forest"/>
+        <card number="5" price="0" name="Forest"/>
         <card number="4" price="0" name="Rancor"/>
         <card number="4" price="0" name="Gladecover Scout"/>
         <card number="4" price="0" name="Ethereal Armor"/>
@@ -11,12 +11,20 @@
         <card number="7" price="0" name="Plains"/>
         <card number="4" price="0" name="Daybreak Coronet"/>
         <card number="4" price="0" name="Spirit Mantle"/>
-        <card number="2" price="0" name="Unflinching Courage"/>
+        <card number="1" price="0" name="Unflinching Courage"/>
         <card number="4" price="0" name="Slippery Bogle"/>
         <card number="4" price="0" name="Spider Umbra"/>
-        <card number="4" price="0" name="Razorverge Thicket"/>
         <card number="4" price="0" name="Sunpetal Grove"/>
-        <card number="4" price="0" name="Silhana Ledgewalker"/>
-        <card number="3" price="0" name="Dromoka's Command"/>
+        <card number="3" price="0" name="Silhana Ledgewalker"/>
+        <card number="4" price="0" name="Dromoka's Command"/>
+        <card number="4" price="0" name="Canopy Vista"/>
+    </zone>
+    <zone name="side">
+        <card number="3" price="0" name="Natural State"/>
+        <card number="2" price="0" name="Aegis of the Gods"/>
+        <card number="3" price="0" name="Relic of Progenitus"/>
+        <card number="2" price="0" name="Gut Shot"/>
+        <card number="2" price="0" name="Nature's Way"/>
+        <card number="3" price="0" name="Condemn"/>
     </zone>
 </cockatrice_deck>
