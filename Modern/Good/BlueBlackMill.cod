@@ -4,30 +4,34 @@
     <comments></comments>
     <zone name="main">
         <card number="4" price="0" name="Mind Funeral"/>
-        <card number="3" price="0" name="Surgical Extraction"/>
         <card number="4" price="0" name="Glimpse the Unthinkable"/>
         <card number="4" price="0" name="Hedron Crab"/>
         <card number="3" price="0" name="Visions of Beyond"/>
         <card number="4" price="0" name="Archive Trap"/>
         <card number="3" price="0" name="Ensnaring Bridge"/>
-        <card number="4" price="0" name="Jace's Phantasm"/>
         <card number="2" price="0" name="Manic Scribe"/>
         <card number="4" price="0" name="Darkslick Shores"/>
         <card number="4" price="0" name="Polluted Delta"/>
         <card number="4" price="0" name="Watery Grave"/>
-        <card number="3" price="0" name="Mesmeric Orb"/>
+        <card number="4" price="0" name="Mesmeric Orb"/>
         <card number="4" price="0" name="Snapcaster Mage"/>
-        <card number="4" price="0" name="Island"/>
+        <card number="2" price="0" name="Island"/>
         <card number="1" price="0" name="Oboro, Palace in the Clouds"/>
         <card number="2" price="0" name="Flooded Strand"/>
         <card number="1" price="0" name="Marsh Flats"/>
         <card number="1" price="0" name="Swamp"/>
         <card number="1" price="0" name="Minamo, School at Water's Edge"/>
+        <card number="4" price="0" name="Thought Scour"/>
+        <card number="2" price="0" name="Crypt Incursion"/>
+        <card number="2" price="0" name="Ghost Quarter"/>
     </zone>
     <zone name="side">
         <card number="4" price="0" name="Leyline of the Void"/>
-        <card number="4" price="0" name="Crypt Incursion"/>
-        <card number="2" price="0" name="Duress"/>
+        <card number="1" price="0" name="Crypt Incursion"/>
         <card number="2" price="0" name="Ratchet Bomb"/>
+        <card number="2" price="0" name="Trapmaker's Snare"/>
+        <card number="2" price="0" name="Damnation"/>
+        <card number="2" price="0" name="Thoughtseize"/>
+        <card number="2" price="0" name="Surgical Extraction"/>
     </zone>
 </cockatrice_deck>
