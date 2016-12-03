@@ -11,22 +11,22 @@
         <card number="2" price="0" name="Spellskite"/>
         <card number="1" price="0" name="Ulamog, the Ceaseless Hunger"/>
         <card number="1" price="0" name="Ulamog, the Infinite Gyre"/>
-        <card number="2" price="0" name="Artisan of Kozilek"/>
+        <card number="1" price="0" name="Artisan of Kozilek"/>
         <card number="4" price="0" name="Thought-Knot Seer"/>
         <card number="4" price="0" name="Ancient Stirrings"/>
         <card number="4" price="0" name="Chromatic Star"/>
         <card number="2" price="0" name="Sanctum of Ugin"/>
         <card number="1" price="0" name="Forest"/>
-        <card number="2" price="0" name="Sundering Titan"/>
+        <card number="1" price="0" name="Sundering Titan"/>
         <card number="1" price="0" name="Mountain"/>
         <card number="2" price="0" name="Ugin, the Spirit Dragon"/>
         <card number="4" price="0" name="Sylvan Scrying"/>
-        <card number="2" price="0" name="World Breaker"/>
+        <card number="1" price="0" name="World Breaker"/>
         <card number="4" price="0" name="Karplusan Forest"/>
         <card number="4" price="0" name="Chromatic Sphere"/>
+        <card number="3" price="0" name="Wurmcoil Engine"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Warping Wail"/>
         <card number="2" price="0" name="Not of This World"/>
         <card number="1" price="0" name="Ghost Quarter"/>
         <card number="2" price="0" name="Relic of Progenitus"/>
@@ -34,5 +34,6 @@
         <card number="2" price="0" name="Nature's Claim"/>
         <card number="2" price="0" name="All Is Dust"/>
         <card number="2" price="0" name="Pyroclasm"/>
+        <card number="2" price="0" name="Warping Wail"/>
     </zone>
 </cockatrice_deck>
