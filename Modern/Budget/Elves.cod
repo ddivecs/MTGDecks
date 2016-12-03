@@ -18,11 +18,12 @@
         <card number="4" price="0" name="Lead the Stampede"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Chameleon Colossus"/>
+        <card number="1" price="0" name="Chameleon Colossus"/>
         <card number="3" price="0" name="Reclamation Sage"/>
         <card number="2" price="0" name="Skylasher"/>
-        <card number="4" price="0" name="Wrap in Vigor"/>
+        <card number="3" price="0" name="Wrap in Vigor"/>
         <card number="2" price="0" name="Relic of Progenitus"/>
         <card number="2" price="0" name="Dismember"/>
+        <card number="2" price="0" name="Beast Within"/>
     </zone>
 </cockatrice_deck>
