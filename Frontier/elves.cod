@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="4" price="0" name="Aether Hub"/>
+        <card number="4" price="0" name="Blooming Marsh"/>
+        <card number="2" price="0" name="Chord of Calling"/>
+        <card number="4" price="0" name="Dwynen's Elite"/>
+        <card number="2" price="0" name="Dwynen, Gilt-Leaf Daen"/>
+        <card number="3" price="0" name="Eldritch Evolution"/>
+        <card number="4" price="0" name="Elvish Mystic"/>
+        <card number="3" price="0" name="Elvish Visionary"/>
+        <card number="5" price="0" name="Forest"/>
+        <card number="2" price="0" name="Gnarlroot Trapper"/>
+        <card number="4" price="0" name="Llanowar Wastes"/>
+        <card number="2" price="0" name="Nissa, Vastwood Seer"/>
+        <card number="4" price="0" name="Panharmonicon"/>
+        <card number="3" price="0" name="Servant of the Conduit"/>
+        <card number="4" price="0" name="Shaman of the Pack"/>
+        <card number="2" price="0" name="Swamp"/>
+        <card number="2" price="0" name="Sylvan Messenger"/>
+        <card number="1" price="0" name="Thought-Knot Seer"/>
+        <card number="2" price="0" name="Westvale Abbey"/>
+        <card number="1" price="0" name="Woodland Bellower"/>
+        <card number="2" price="0" name="Cultivator of Blades"/>
+    </zone>
+    <zone name="side">
+        <card number="1" price="0" name="Arborback Stomper"/>
+        <card number="2" price="0" name="Collective Brutality"/>
+        <card number="2" price="0" name="Eyeblight Assassin"/>
+        <card number="1" price="0" name="Eyeblight Massacre"/>
+        <card number="1" price="0" name="Gilt-Leaf Winnower"/>
+        <card number="2" price="0" name="Murderous Cut"/>
+        <card number="1" price="0" name="Nissa, Vastwood Seer"/>
+        <card number="1" price="0" name="Reclamation Sage"/>
+        <card number="1" price="0" name="Tainted Remedy"/>
+        <card number="1" price="0" name="Whisperwood Elemental"/>
+        <card number="2" price="0" name="Winds of Qal Sisma"/>
+    </zone>
+</cockatrice_deck>

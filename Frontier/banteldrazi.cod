@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cockatrice_deck version="1">
+    <deckname></deckname>
+    <comments></comments>
+    <zone name="main">
+        <card number="3" price="0" name="Reality Smasher"/>
+        <card number="3" price="0" name="Eldrazi Displacer"/>
+        <card number="2" price="0" name="Eldrazi Skyspawner"/>
+        <card number="3" price="0" name="Matter Reshaper"/>
+        <card number="4" price="0" name="Thought-Knot Seer"/>
+        <card number="2" price="0" name="Elder Deep-Fiend"/>
+        <card number="2" price="0" name="Dig Through Time"/>
+        <card number="2" price="0" name="Duskwatch Recruiter"/>
+        <card number="4" price="0" name="Elvish Mystic"/>
+        <card number="3" price="0" name="Eldrazi Mimic"/>
+        <card number="1" price="0" name="Verdurous Gearhulk"/>
+        <card number="4" price="0" name="Spatial Contortion"/>
+        <card number="2" price="0" name="Declaration in Stone"/>
+        <card number="1" price="0" name="Dispel"/>
+        <card number="4" price="0" name="Aether Hub"/>
+        <card number="1" price="0" name="Botanical Sanctum"/>
+        <card number="2" price="0" name="Corrupted Crossroads"/>
+        <card number="2" price="0" name="Forest"/>
+        <card number="1" price="0" name="Island"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="1" price="0" name="Prairie Stream"/>
+        <card number="2" price="0" name="Sea Gate Wreckage"/>
+        <card number="2" price="0" name="Tomb of the Spirit Dragon"/>
+        <card number="4" price="0" name="Windswept Heath"/>
+        <card number="4" price="0" name="Yavimaya Coast"/>
+    </zone>
+    <zone name="side">
+        <card number="2" price="0" name="Natural State"/>
+        <card number="1" price="0" name="Blessed Alliance"/>
+        <card number="1" price="0" name="Declaration in Stone"/>
+        <card number="2" price="0" name="Disdainful Stroke"/>
+        <card number="2" price="0" name="Hallowed Moonlight"/>
+        <card number="2" price="0" name="Warping Wail"/>
+        <card number="1" price="0" name="Tenacity"/>
+        <card number="1" price="0" name="Arborback Stomper"/>
+        <card number="1" price="0" name="Endbringer"/>
+        <card number="2" price="0" name="Tormod's Crypt"/>
+    </zone>
+</cockatrice_deck>
