@@ -1,39 +1,41 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname></deckname>
-    <comments></comments>
+    <deckname>56 Maindeck</deckname>
+    <comments>12 Creature
+</comments>
     <zone name="main">
         <card number="2" price="0" name="Anafenza, the Foremost"/>
-        <card number="4" price="0" name="Dismember"/>
-        <card number="3" price="0" name="Doom Blade"/>
-        <card number="3" price="0" name="Duress"/>
-        <card number="1" price="0" name="Forest"/>
-        <card number="2" price="0" name="Go for the Throat"/>
-        <card number="4" price="0" name="Grisly Salvage"/>
-        <card number="3" price="0" name="Harsh Scrutiny"/>
-        <card number="4" price="0" name="Lingering Souls"/>
-        <card number="1" price="0" name="Murderous Cut"/>
-        <card number="1" price="0" name="Plains"/>
         <card number="2" price="0" name="Qasali Pridemage"/>
-        <card number="4" price="0" name="Sandsteppe Citadel"/>
         <card number="4" price="0" name="Siege Rhino"/>
+        <card number="2" price="0" name="Tasigur, the Golden Fang"/>
+        <card number="2" price="0" name="Warden of the First Tree"/>
+        <card number="4" price="0" name="Dismember"/>
+        <card number="1" price="0" name="Doom Blade"/>
+        <card number="1" price="0" name="Go for the Throat"/>
+        <card number="4" price="0" name="Grisly Salvage"/>
+        <card number="3" price="0" name="Fatal Push"/>
+        <card number="1" price="0" name="Forest"/>
+        <card number="1" price="0" name="Plains"/>
+        <card number="4" price="0" name="Sandsteppe Citadel"/>
         <card number="4" price="0" name="Stirring Wildwood"/>
         <card number="2" price="0" name="Swamp"/>
-        <card number="2" price="0" name="Tasigur, the Golden Fang"/>
         <card number="2" price="0" name="Concealed Courtyard"/>
         <card number="2" price="0" name="Blooming Marsh"/>
         <card number="4" price="0" name="Caves of Koilos"/>
         <card number="4" price="0" name="Llanowar Wastes"/>
-        <card number="2" price="0" name="Warden of the First Tree"/>
+        <card number="3" price="0" name="Duress"/>
+        <card number="3" price="0" name="Harsh Scrutiny"/>
+        <card number="4" price="0" name="Lingering Souls"/>
+        <card number="1" price="0" name="Murderous Cut"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Day of Judgment"/>
-        <card number="1" price="0" name="Golgari Charm"/>
-        <card number="3" price="0" name="Nature's Claim"/>
         <card number="2" price="0" name="Nihil Spellbomb"/>
         <card number="2" price="0" name="Qasali Pridemage"/>
         <card number="1" price="0" name="Sin Collector"/>
-        <card number="2" price="0" name="Timely Reinforcements"/>
+        <card number="1" price="0" name="Golgari Charm"/>
+        <card number="3" price="0" name="Nature's Claim"/>
         <card number="2" price="0" name="Zealous Persecution"/>
+        <card number="2" price="0" name="Day of Judgment"/>
+        <card number="2" price="0" name="Timely Reinforcements"/>
     </zone>
 </cockatrice_deck>
