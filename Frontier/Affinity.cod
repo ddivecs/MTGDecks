@@ -1,39 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <cockatrice_deck version="1">
-    <deckname></deckname>
+    <deckname>Grixs Bad Touch</deckname>
     <comments></comments>
     <zone name="main">
-        <card number="4" price="0" name="Darksteel Citadel"/>
-        <card number="2" price="0" name="Dig Through Time"/>
-        <card number="3" price="0" name="Ensoul Artifact"/>
-        <card number="1" price="0" name="Filigree Familiar"/>
-        <card number="2" price="0" name="Ghostfire Blade"/>
-        <card number="1" price="0" name="Hangarback Walker"/>
-        <card number="3" price="0" name="Island"/>
-        <card number="2" price="0" name="Jace, Vryn's Prodigy"/>
-        <card number="4" price="0" name="Lightning Strike"/>
-        <card number="3" price="0" name="Mountain"/>
+        <card number="3" price="0" name="Ghostfire Blade"/>
         <card number="4" price="0" name="Ornithopter"/>
-        <card number="4" price="0" name="Shrapnel Blast"/>
-        <card number="2" price="0" name="Stoke the Flames"/>
-        <card number="2" price="0" name="Thopter Engineer"/>
-        <card number="2" price="0" name="Inventor's Apprentice"/>
-        <card number="3" price="0" name="Chief of the Foundry"/>
-        <card number="4" price="0" name="Spirebluff Canal"/>
-        <card number="4" price="0" name="Shivan Reef"/>
-        <card number="4" price="0" name="Aether Hub"/>
-        <card number="3" price="0" name="Foundry Inspector"/>
-        <card number="3" price="0" name="Gearseeker Serpent"/>
+        <card number="2" price="0" name="Chief of the Foundry"/>
+        <card number="4" price="0" name="Ensoul Artifact"/>
+        <card number="4" price="0" name="Tezzeret's Touch"/>
+        <card number="2" price="0" name="Dig Through Time"/>
+        <card number="3" price="0" name="Lightning Strike"/>
+        <card number="3" price="0" name="Shrapnel Blast"/>
+        <card number="4" price="0" name="Fatal Push"/>
+        <card number="4" price="0" name="Darksteel Citadel"/>
+        <card number="2" price="0" name="Island"/>
+        <card number="2" price="0" name="Mountain"/>
+        <card number="2" price="0" name="Swamp"/>
+        <card number="4" price="0" name="Spire of Industry"/>
+        <card number="2" price="0" name="Bloodstained Mire"/>
+        <card number="2" price="0" name="Polluted Delta"/>
+        <card number="1" price="0" name="Smoldering Marsh"/>
+        <card number="1" price="0" name="Sunken Hollow"/>
+        <card number="3" price="0" name="Wild Slash"/>
+        <card number="4" price="0" name="Bomat Courier"/>
+        <card number="3" price="0" name="Smuggler's Copter"/>
+        <card number="1" price="0" name="Walking Ballista"/>
     </zone>
     <zone name="side">
-        <card number="2" price="0" name="Barrage of Boulders"/>
-        <card number="1" price="0" name="Dispel"/>
+        <card number="1" price="0" name="Pyromancer's Goggles"/>
+        <card number="2" price="0" name="Tormod's Crypt"/>
         <card number="1" price="0" name="Eldrazi Obligator"/>
         <card number="2" price="0" name="Padeem, Consul of Innovation"/>
-        <card number="1" price="0" name="Pyromancer's Goggles"/>
-        <card number="2" price="0" name="Radiant Flames"/>
+        <card number="1" price="0" name="Dispel"/>
         <card number="2" price="0" name="Stubborn Denial"/>
-        <card number="2" price="0" name="Tormod's Crypt"/>
+        <card number="2" price="0" name="Barrage of Boulders"/>
+        <card number="2" price="0" name="Radiant Flames"/>
         <card number="2" price="0" name="Exquisite Firecraft"/>
     </zone>
 </cockatrice_deck>
